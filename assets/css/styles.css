@@ -19,6 +19,7 @@ body {
 /* Common */
 a {
     text-decoration: none;
+    text-wrap: nowrap;
 }
 
 h1,
